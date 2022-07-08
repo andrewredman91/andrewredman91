@@ -17,16 +17,8 @@ Languages and Tools
 <p align = "left"> 
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=grey"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=grey"/>  <img src="https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=grey"/> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=grey"/></p> 
 
-<p align = "left"> 
-   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Lightroom-FF9A00?style=flat&logo=adobe%20lightroom&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-FF9A00?style=flat&logo=adobe%20photoshop&logoColor=white"/></p>
+
       
-
-    
-
- 
-
-   
-
 
 
 <!--
