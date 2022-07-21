@@ -4,7 +4,7 @@ I'm a Software Developer with a background in Business and Finance.
 
 
 
-#Languages and Tools
+# Languages and Tools
 
 <div align="center">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Javascript" alt="JavaScript"/>&nbsp;
