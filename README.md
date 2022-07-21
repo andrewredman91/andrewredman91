@@ -6,16 +6,25 @@ I'm a Software Developer with a background in Business and Finance.
 
 Languages and Tools
 
-<p align = "left"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-lightgrey?style=flat&logo=react&logoColor=grey"/> <img src="https://img.shields.io/badge/Cypress-lightgrey?style=flat&logo=cypress&logoColor=grey"/> <img src="https://img.shields.io/badge/MongoDB-lightgrey?style=flat&logo=mongodb&logoColor=grey"/> <img src="https://img.shields.io/badge/Express.js-lightgrey?style=flat&logo=express&logoColor=grey"/> <img src="https://img.shields.io/badge/Insomnia-lightgrey?style=flat&logo=insomnia&logoColor=grey"/> <img src="https://img.shields.io/badge/Compass-lightgrey?style=flat&logo=compass&logoColor=grey"/></a> </p>  
-
-<p align = "left"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/Flask-lightgrey?style=flat&logo=flask&logoColor=grey"/> <img src="https://img.shields.io/badge/Jinja-lightgrey?style=flat&logo=jinja&logoColor=grey"/> <img src="https://img.shields.io/badge/PostgreSQL-lightgrey?style=flat&logo=postgresql&logoColor=grey"/> <img src="https://img.shields.io/badge/Jupyter-lightgrey?style=flat&logo=jupyter&logoColor=grey"/></a></p> 
-    
-<p align = "left"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=black"/>  <img src="https://img.shields.io/badge/Spring-lightgrey?style=flat&logo=spring&logoColor=grey"/> </p> 
-
-<p align = "left"> 
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=grey"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=grey"/>  <img src="https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=grey"/> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=grey"/></p> 
+<div align="center">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="Javascript" alt="JavaScript"/>&nbsp;
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJS" alt="NodeJS"/>&nbsp;
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" title="Express" alt="Express"/>&nbsp;
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java"/>&nbsp;
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring"/>&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>&nbsp;
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgress" alt="Postgress"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB"/>&nbsp;
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" title="django" alt="django"/>&nbsp;
+<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" title="cypress" alt="cypress"/>&nbsp;
+<img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" title="mocha" alt="mocha"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
+</div>
 
 
       
